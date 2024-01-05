@@ -1,7 +1,8 @@
 repo_name: ohimors/hackathon-starter
 report_id: 5d940f2b9530964cfd8ec214654b0b03
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T00:24:39+00:00'
+timestamp: '2024-01-05T08:47:43+00:00'
 requested_by: sahat
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/hackathon-starter
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2013-11-13 17:32:22.000000000 Z
@@ -40,7 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Weston Platter
   last_updated_on: 2014-02-25 06:29:58.000000000 Z
@@ -65,7 +69,7 @@ tools:
   category: Data Stores
   sub_category: Object Document Mapper (ODM)
   image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -79,7 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2013-11-13 17:32:22.000000000 Z
@@ -92,6 +96,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -103,6 +108,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter
   detection_source: Repo Metadata
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
@@ -115,7 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -127,6 +133,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2013-11-13 17:32:22.000000000 Z
@@ -140,7 +147,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2015-08-27 01:53:45.000000000 Z
@@ -153,6 +160,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Weston Platter
   last_updated_on: 2014-02-25 06:25:39.000000000 Z
@@ -164,6 +172,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2013-11-13 17:32:22.000000000 Z
@@ -175,6 +184,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -186,6 +196,7 @@ tools:
   category: Communications
   sub_category: Voice and SMS
   image_url: https://img.stackshare.io/service/130/VrwpNfjh_400x400.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -198,7 +209,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -211,6 +222,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter
   detection_source: Repo Metadata
 - name: Twitter API
   description: Build bots that communicate smartly.
@@ -218,6 +230,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2466/twitterdev_gear.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -231,7 +244,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -245,7 +258,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17327/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -259,7 +272,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17050/default_824835a71140f223a333a5e10225c10368f12857.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2015-09-05 02:28:39.000000000 Z
@@ -273,7 +286,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -287,7 +300,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -301,7 +314,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -315,7 +328,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17588/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -329,7 +342,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -343,7 +356,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16986/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -357,7 +370,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -378,7 +391,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -392,7 +405,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17906/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -406,7 +419,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16163/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2015-06-14 21:17:29.000000000 Z
@@ -420,7 +433,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16758/default_92482df1bcbe0d3a46cc1d597c9687a42da1cd04.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2015-08-01 19:58:47.000000000 Z
@@ -442,7 +455,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2015-07-04 17:47:45.000000000 Z
@@ -463,7 +476,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18350/default_66453dac5039f3ea2d494ebb900a31c627b16d29.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2015-01-15 05:55:03.000000000 Z
@@ -477,7 +490,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16278/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -504,7 +517,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16304/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -525,7 +538,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17972/default_5cd4226daecf35530a193ea8bd553edbe0c69ed1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -539,7 +552,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18454/default_6dcac5c4efc2d5715bff50b0427ad187013cea59.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -553,7 +566,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -567,7 +580,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17672/default_4ba4cce198b4498f328ca26971f69b03cf49892a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -581,7 +594,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18746/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -595,7 +608,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
@@ -616,7 +629,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16361/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2015-06-14 21:17:29.000000000 Z
@@ -630,7 +643,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18372/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-02-01 18:39:44.000000000 Z
@@ -644,7 +657,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
   detection_source: package.json
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2016-01-28 20:07:30.000000000 Z
