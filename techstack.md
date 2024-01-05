@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ohimors/hackathon-starter is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Twilio](http://www.twilio.com) – Voice and SMS
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -17,11 +18,13 @@ ohimors/hackathon-starter is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ohimors/hackathon-starter is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -37,14 +40,15 @@ ohimors/hackathon-starter is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ohimors/hackathon-starter](https://github.com/ohimors/hackathon-starter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|45<br/>Tools used|11/13/23 <br/>Report generated|
+|45<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -260,4 +264,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
