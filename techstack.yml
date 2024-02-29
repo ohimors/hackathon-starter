@@ -1,0 +1,676 @@
+repo_name: ohimors/hackathon-starter
+report_id: 5d940f2b9530964cfd8ec214654b0b03
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:41:48+00:00'
+requested_by: sahat
+provider: github
+branch: master
+detected_tools_count: 45
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/hackathon-starter
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2013-11-13 17:32:22.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.13.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Weston Platter
+  last_updated_on: 2014-02-25 06:29:58.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 4.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2013-11-13 17:32:22.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter
+  detection_source: Repo Metadata
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 2.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2013-11-13 17:32:22.000000000 Z
+- name: SuperTest
+  description: A library for testing node.js HTTP servers
+  website_url: https://www.npmjs.com/package/supertest
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2015-08-27 01:53:45.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Weston Platter
+  last_updated_on: 2014-02-25 06:25:39.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2013-11-13 17:32:22.000000000 Z
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: Twilio
+  description: Bring voice and messaging to your web and mobile applications.
+  website_url: http://www.twilio.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Voice and SMS
+  image_url: https://img.stackshare.io/service/130/VrwpNfjh_400x400.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter
+  detection_source: Repo Metadata
+- name: Twitter API
+  description: Build bots that communicate smartly.
+  website_url: https://twitter.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2466/twitterdev_gear.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 1.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: bcrypt-nodejs
+  description: A native JS bcrypt library for NodeJS
+  package_url: https://www.npmjs.com/bcrypt-nodejs
+  version: 0.0.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17327/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: blessed
+  description: A high-level terminal interface library for node.js
+  package_url: https://www.npmjs.com/blessed
+  version: 0.1.81
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17050/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2015-09-05 02:28:39.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: cheerio
+  description: Fast, flexible, and lean implementation of core jQuery
+  package_url: https://www.npmjs.com/cheerio
+  version: 0.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: connect-mongo
+  description: MongoDB session store for Express and Connect
+  package_url: https://www.npmjs.com/connect-mongo
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17588/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: errorhandler
+  description: Development-only error handler middleware
+  package_url: https://www.npmjs.com/errorhandler
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16986/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.13.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: express-validator
+  description: Express middleware for the validator module
+  package_url: https://www.npmjs.com/express-validator
+  version: 2.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17906/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+- name: jade
+  description: A clean
+  package_url: https://www.npmjs.com/jade
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16163/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2015-06-14 21:17:29.000000000 Z
+- name: method-override
+  description: Override HTTP verbs
+  package_url: https://www.npmjs.com/method-override
+  version: 2.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16758/default_92482df1bcbe0d3a46cc1d597c9687a42da1cd04.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2015-08-01 19:58:47.000000000 Z
+  vulnerabilities:
+  - name: method-override ReDoS when untrusted user input passed into X-HTTP-Method-Override
+      header
+    cve_id: CVE-2017-16136
+    cve_url: https://github.com/advisories/GHSA-qx2f-477c-35rq
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.3.10
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2015-07-04 17:47:45.000000000 Z
+  vulnerabilities:
+  - name: Code Injection in morgan
+    cve_id: CVE-2019-5413
+    cve_url: https://github.com/advisories/GHSA-gwg9-rgvj-4h5j
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.9.1
+- name: multiline
+  description: Multiline strings in JavaScript
+  package_url: https://www.npmjs.com/multiline
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18350/default_66453dac5039f3ea2d494ebb900a31c627b16d29.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2015-01-15 05:55:03.000000000 Z
+- name: nodemailer
+  description: Easy as cake e-mail sending from your Node.js applications
+  package_url: https://www.npmjs.com/nodemailer
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16278/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+  vulnerabilities:
+  - name: Command injection in nodemailer
+    cve_id: CVE-2020-7769
+    cve_url: https://github.com/advisories/GHSA-48ww-j4fc-435p
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 6.4.16
+  - name: nodemailer ReDoS when trying to send a specially crafted email
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9h6g-pr28-7cqp
+    detected_date: Feb 1
+    severity: moderate
+    first_patched: 6.9.9
+  - name: Header injection in nodemailer
+    cve_id: CVE-2021-23400
+    cve_url: https://github.com/advisories/GHSA-hwqf-gcqm-7353
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 6.6.1
+- name: passport
+  description: Simple, unobtrusive authentication for Node.js
+  package_url: https://www.npmjs.com/passport
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16304/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+  vulnerabilities:
+  - name: Passport vulnerable to session regeneration when a users logs in or out
+    cve_id: CVE-2022-25896
+    cve_url: https://github.com/advisories/GHSA-v923-w3x8-wh69
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 0.6.0
+- name: passport-facebook
+  description: Facebook authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-facebook
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17972/default_5cd4226daecf35530a193ea8bd553edbe0c69ed1.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: passport-google-oauth
+  description: Google
+  package_url: https://www.npmjs.com/passport-google-oauth
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18454/default_6dcac5c4efc2d5715bff50b0427ad187013cea59.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: passport-oauth
+  description: OAuth 1.0 and 2.0 authentication strategies for Passport
+  package_url: https://www.npmjs.com/passport-oauth
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17672/default_4ba4cce198b4498f328ca26971f69b03cf49892a.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: passport-twitter
+  description: Twitter authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-twitter
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18746/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.69.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 
+- name: serve-favicon
+  description: Favicon serving middleware with caching
+  package_url: https://www.npmjs.com/serve-favicon
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16361/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2015-06-14 21:17:29.000000000 Z
+- name: twit
+  description: Twitter API client for node
+  package_url: https://www.npmjs.com/twit
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18372/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-02-01 18:39:44.000000000 Z
+- name: validator
+  description: String validation and sanitization
+  package_url: https://www.npmjs.com/validator
+  version: 4.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/ohimors/hackathon-starter/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sahat Yalkabov
+  last_updated_on: 2016-01-28 20:07:30.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in validator.js
+    cve_id: CVE-2021-3765
+    cve_url: https://github.com/advisories/GHSA-qgmg-gppg-76g5
+    detected_date: Jan 18
+    severity: moderate
+    first_patched: 13.7.0
