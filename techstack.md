@@ -3,19 +3,19 @@
 ## Tech Stack
 ohimors/hackathon-starter is built on the following main stack:
 
-- [Stripe](https://stripe.com) – Payment Services
-- [Twilio](http://www.twilio.com) – Voice and SMS
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [MongoDB](http://www.mongodb.com/) – Databases
 - [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Stripe](https://stripe.com) – Payment Services
+- [Twilio](http://www.twilio.com) – Voice and SMS
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -25,19 +25,19 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ohimors/hackathon-starter is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' alt='Mongoose'/> [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ohimors/hackathon-starter](https://github.com/ohimors/hackathon-starter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|45<br/>Tools used|01/05/24 <br/>Report generated|
+|45<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -249,7 +249,7 @@ Full tech stack [here](/techstack.md)
 |[method-override](https://www.npmjs.com/method-override)|v2.3.5|08/01/15|Sahat Yalkabov |MIT|[CVE-2017-16136](https://github.com/advisories/GHSA-qx2f-477c-35rq) (High)|
 |[morgan](https://www.npmjs.com/morgan)|v1.6.1|07/04/15|Sahat Yalkabov |MIT|[CVE-2019-5413](https://github.com/advisories/GHSA-gwg9-rgvj-4h5j) (Critical)|
 |[multiline](https://www.npmjs.com/multiline)|v1.0.2|01/15/15|Sahat Yalkabov |MIT|N/A|
-|[nodemailer](https://www.npmjs.com/nodemailer)|v2.1.0|02/01/16|Sahat Yalkabov |MIT|[CVE-2020-7769](https://github.com/advisories/GHSA-48ww-j4fc-435p) (Critical)<br/>[CVE-2021-23400](https://github.com/advisories/GHSA-hwqf-gcqm-7353) (Moderate)|
+|[nodemailer](https://www.npmjs.com/nodemailer)|v2.1.0|02/01/16|Sahat Yalkabov |MIT|[CVE-2020-7769](https://github.com/advisories/GHSA-48ww-j4fc-435p) (Critical)<br/>[](https://github.com/advisories/GHSA-9h6g-pr28-7cqp) (Moderate)<br/>[CVE-2021-23400](https://github.com/advisories/GHSA-hwqf-gcqm-7353) (Moderate)|
 |[passport](https://www.npmjs.com/passport)|v0.3.2|02/01/16|Sahat Yalkabov |MIT|[CVE-2022-25896](https://github.com/advisories/GHSA-v923-w3x8-wh69) (Moderate)|
 |[passport-facebook](https://www.npmjs.com/passport-facebook)|v2.0.0|02/01/16|Sahat Yalkabov |MIT|N/A|
 |[passport-google-oauth](https://www.npmjs.com/passport-google-oauth)|v0.2.0|02/01/16|Sahat Yalkabov |MIT|N/A|
