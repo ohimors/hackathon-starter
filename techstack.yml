@@ -2,7 +2,7 @@ repo_name: ohimors/hackathon-starter
 report_id: 5d940f2b9530964cfd8ec214654b0b03
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:47:43+00:00'
+timestamp: '2024-02-29T18:41:48+00:00'
 requested_by: sahat
 provider: github
 branch: master
@@ -138,7 +138,7 @@ tools:
   last_updated_by: Sahat Yalkabov
   last_updated_on: 2013-11-13 17:32:22.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 1.1.0
   license: MIT
@@ -501,6 +501,12 @@ tools:
     detected_date: Aug 22
     severity: critical
     first_patched: 6.4.16
+  - name: nodemailer ReDoS when trying to send a specially crafted email
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9h6g-pr28-7cqp
+    detected_date: Feb 1
+    severity: moderate
+    first_patched: 6.9.9
   - name: Header injection in nodemailer
     cve_id: CVE-2021-23400
     cve_url: https://github.com/advisories/GHSA-hwqf-gcqm-7353
